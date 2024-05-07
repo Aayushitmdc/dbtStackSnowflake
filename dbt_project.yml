@@ -10,5 +10,4 @@ model-paths: ["models"]
 
 models:
   dbtlearnnew:
-    SAMPLE01:
       +materialized: view
