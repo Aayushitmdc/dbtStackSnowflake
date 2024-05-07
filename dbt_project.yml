@@ -10,5 +10,5 @@ model-paths: ["models"]
 
 models:
   dbtlearnnew:
-    customer_transformation:
+    SAMPLE01:
       +materialized: view
